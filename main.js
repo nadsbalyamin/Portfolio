@@ -39,6 +39,7 @@ window.addEventListener('scroll', () => {
     }
 });
 
+
 // Intersection Observer for animations
 const observerOptions = {
     threshold: 0.1,
